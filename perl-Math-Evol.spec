@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Math
-%define	pnam	Evol
+%define		pdir	Math
+%define		pnam	Evol
 Summary:	Math::Evol - Evolution search optimisation
 Summary(pl):	Math::Evol - optymalizacja przez poszukiwanie ewolucyjne
 Name:		perl-Math-Evol
