@@ -27,7 +27,7 @@ incorporated. The caller must supply initial values for the variables
 and for the initial step sizes.
 
 %description -l pl
-Ten modu³ jest implementacj± algorytmu poszukiwania ewolycyjnego.
+Ten modu³ jest implementacj± algorytmu poszukiwania ewolucyjnego.
 Pochodne optymalizowanej funkcji nie s± potrzebne. Mo¿na na³o¿yæ
 ograniczenia. Wo³aj±cy musi podaæ warto¶ci pocz±tkowe zmiennych oraz
 pocz±tkowe rozmiary kroków.
