@@ -10,7 +10,8 @@ Summary(pl):	Math::Evol - optymalizacja przez poszukiwanie ewolucyjne
 Name:		perl-Math-Evol
 Version:	1.03
 Release:	1
-License:	GPL/Artistic
+# same as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	a844341b8c32e70cbbb39ca9f66e8bdf
