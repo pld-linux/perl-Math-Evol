@@ -5,7 +5,7 @@
 %include	/usr/lib/rpm/macros.perl
 %define		pdir	Math
 %define		pnam	Evol
-Summary:	Math::Evol - Evolution search optimisation
+Summary:	Math::Evol - evolution search optimisation
 Summary(pl):	Math::Evol - optymalizacja przez poszukiwanie ewolucyjne
 Name:		perl-Math-Evol
 Version:	1.04
