@@ -8,13 +8,13 @@
 Summary:	Math::Evol - Evolution search optimisation
 Summary(pl):	Math::Evol - optymalizacja przez poszukiwanie ewolucyjne
 Name:		perl-Math-Evol
-Version:	1.03
+Version:	1.04
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	a844341b8c32e70cbbb39ca9f66e8bdf
+# Source0-md5:	d86cf184fbe99560ce131a0b79c3fddc
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
