@@ -6,7 +6,7 @@
 %define		pdir	Math
 %define		pnam	Evol
 Summary:	Math::Evol - evolution search optimisation
-Summary(pl):	Math::Evol - optymalizacja przez poszukiwanie ewolucyjne
+Summary(pl.UTF-8):   Math::Evol - optymalizacja przez poszukiwanie ewolucyjne
 Name:		perl-Math-Evol
 Version:	1.06
 Release:	1
@@ -26,11 +26,11 @@ the objective function are not required. Constraints can be
 incorporated. The caller must supply initial values for the variables
 and for the initial step sizes.
 
-%description -l pl
-Ten modu³ jest implementacj± algorytmu poszukiwania ewolucyjnego.
-Pochodne optymalizowanej funkcji nie s± potrzebne. Mo¿na na³o¿yæ
-ograniczenia. Wo³aj±cy musi podaæ warto¶ci pocz±tkowe zmiennych oraz
-pocz±tkowe rozmiary kroków.
+%description -l pl.UTF-8
+Ten moduÅ‚ jest implementacjÄ… algorytmu poszukiwania ewolucyjnego.
+Pochodne optymalizowanej funkcji nie sÄ… potrzebne. MoÅ¼na naÅ‚oÅ¼yÄ‡
+ograniczenia. WoÅ‚ajÄ…cy musi podaÄ‡ wartoÅ›ci poczÄ…tkowe zmiennych oraz
+poczÄ…tkowe rozmiary krokÃ³w.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
