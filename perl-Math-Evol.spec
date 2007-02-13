@@ -6,7 +6,7 @@
 %define		pdir	Math
 %define		pnam	Evol
 Summary:	Math::Evol - evolution search optimisation
-Summary(pl.UTF-8):   Math::Evol - optymalizacja przez poszukiwanie ewolucyjne
+Summary(pl.UTF-8):	Math::Evol - optymalizacja przez poszukiwanie ewolucyjne
 Name:		perl-Math-Evol
 Version:	1.06
 Release:	1
