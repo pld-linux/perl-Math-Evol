@@ -1,10 +1,10 @@
 #
 # Conditional build:
 %bcond_without	tests	# do not perform "make test"
-#
-%include	/usr/lib/rpm/macros.perl
+
 %define		pdir	Math
 %define		pnam	Evol
+%include	/usr/lib/rpm/macros.perl
 Summary:	Math::Evol - evolution search optimisation
 Summary(pl.UTF-8):	Math::Evol - optymalizacja przez poszukiwanie ewolucyjne
 Name:		perl-Math-Evol
@@ -15,6 +15,7 @@ License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	08013af45d038abd1b142b6ed250359c
+URL:		http://search.cpan.org/dist/Math-Evol/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
